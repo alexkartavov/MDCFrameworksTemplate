@@ -1,0 +1,1749 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFInternationalization/MDFInternationalization.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MDFInternationalization-Swift.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFInternationalization/MDFInternationalization.framework/Headers/MDFInternationalization-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDFInternationalization-umbrella.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/Target Support Files/MDFInternationalization/MDFInternationalization-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFInternationalization/MDFInternationalization.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Pods.build/Debug-iphoneos/MDFInternationalization.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFTextAccessibility/MDFTextAccessibility.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MDFTextAccessibility-Swift.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFTextAccessibility/MDFTextAccessibility.framework/Headers/MDFTextAccessibility-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDFTextAccessibility-umbrella.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/Target Support Files/MDFTextAccessibility/MDFTextAccessibility-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDFTextAccessibility.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MDFTextAccessibility/src/MDFTextAccessibility.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFTextAccessibility/MDFTextAccessibility.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Pods.build/Debug-iphoneos/MDFTextAccessibility.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MDFTextAccessibility/MDFTextAccessibility.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MDFColorCalculations.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MDFTextAccessibility/src/private/MDFColorCalculations.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDFImageCalculations.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MDFTextAccessibility/src/private/MDFImageCalculations.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MDFUtils.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MDFTextAccessibility/src/private/NSArray+MDFUtils.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MaterialComponents/MaterialComponents.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CAMediaTimingFunction+MDCAnimationTiming.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AnimationTiming/src/CAMediaTimingFunction+MDCAnimationTiming.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCActivityIndicator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ActivityIndicator/src/MDCActivityIndicator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCActivityIndicatorColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ActivityIndicator/src/ColorThemer/MDCActivityIndicatorColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAlertColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/ColorThemer/MDCAlertColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAlertController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/MDCAlertController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAlertControllerView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/MDCAlertControllerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAlertTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/TypographyThemer/MDCAlertTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAppBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/MDCAppBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAppBarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/ColorThemer/MDCAppBarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAppBarContainerViewController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/MDCAppBarContainerViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCAppBarTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/TypographyThemer/MDCAppBarTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBaseCell.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/List/src/MDCBaseCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomAppBarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomAppBar/src/ColorThemer/MDCBottomAppBarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomAppBarView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomAppBar/src/MDCBottomAppBarView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomNavigationBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomNavigation/src/MDCBottomNavigationBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomNavigationBarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomNavigation/src/ColorThemer/MDCBottomNavigationBarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomNavigationBarTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomNavigation/src/TypographyThemer/MDCBottomNavigationBarTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomSheetController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomSheet/src/MDCBottomSheetController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomSheetPresentationController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomSheet/src/MDCBottomSheetPresentationController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCBottomSheetTransitionController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomSheet/src/MDCBottomSheetTransitionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButton.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/MDCButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/MDCButtonBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonBarButton.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/MDCButtonBarButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonBarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/ColorThemer/MDCButtonBarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonBarTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/TypographyThemer/MDCButtonBarTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ColorThemer/MDCButtonColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ButtonThemer/MDCButtonScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonTitleColorAccessibilityMutator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/TitleColorAccessibilityMutator/MDCButtonTitleColorAccessibilityMutator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCButtonTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/TypographyThemer/MDCButtonTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCard.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/MDCCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCardCollectionCell.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/MDCCardCollectionCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCardScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/CardThemer/MDCCardScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCardThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/CardThemer/MDCCardThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCardsColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/ColorThemer/MDCCardsColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipCollectionViewCell.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/MDCChipCollectionViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipCollectionViewFlowLayout.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/MDCChipCollectionViewFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipField.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/MDCChipField.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/MDCChipView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipViewColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/ColorThemer/MDCChipViewColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipViewFontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/FontThemer/MDCChipViewFontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipViewScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/ChipThemer/MDCChipViewScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipViewThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/ChipThemer/MDCChipViewThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCChipViewTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/TypographyThemer/MDCChipViewTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewCell.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/CollectionCells/src/MDCCollectionViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MDCCollectionViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewEditing.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MDCCollectionViewEditing.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewEditingDelegate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MDCCollectionViewEditingDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewFlowLayout.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MDCCollectionViewFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewLayoutAttributes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/CollectionLayoutAttributes/src/MDCCollectionViewLayoutAttributes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewStyling.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MDCCollectionViewStyling.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewStylingDelegate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MDCCollectionViewStylingDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCollectionViewTextCell.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/CollectionCells/src/MDCCollectionViewTextCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCColorScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Themes/src/MDCColorScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCContainedButtonColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ColorThemer/MDCContainedButtonColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCContainedButtonThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ButtonThemer/MDCContainedButtonThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCornerTreatment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCCornerTreatment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCurvedCornerTreatment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCCurvedCornerTreatment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCurvedRectShapeGenerator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCCurvedRectShapeGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCCutCornerTreatment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCCutCornerTreatment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCDialogPresentationController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/MDCDialogPresentationController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCDialogTransitionController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/MDCDialogTransitionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCEdgeTreatment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCEdgeTreatment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFeatureHighlightAccessibilityMutator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/FeatureHighlightAccessibilityMutator/MDCFeatureHighlightAccessibilityMutator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFeatureHighlightColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/ColorThemer/MDCFeatureHighlightColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFeatureHighlightFontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/FontThemer/MDCFeatureHighlightFontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFeatureHighlightTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/TypographyThemer/MDCFeatureHighlightTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFeatureHighlightView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/MDCFeatureHighlightView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFeatureHighlightViewController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/MDCFeatureHighlightViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFilledTextFieldColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/ColorThemer/MDCFilledTextFieldColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFlatButton.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/MDCFlatButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFlexibleHeaderColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FlexibleHeader/src/ColorThemer/MDCFlexibleHeaderColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFlexibleHeaderContainerViewController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FlexibleHeader/src/MDCFlexibleHeaderContainerViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFlexibleHeaderView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FlexibleHeader/src/MDCFlexibleHeaderView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFlexibleHeaderViewController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FlexibleHeader/src/MDCFlexibleHeaderViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFloatingActionButtonThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ButtonThemer/MDCFloatingActionButtonThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFloatingButton+Animation.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/MDCFloatingButton+Animation.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFloatingButton.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/MDCFloatingButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFloatingButtonColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ColorThemer/MDCFloatingButtonColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFontScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Themes/src/MDCFontScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCFontTextStyle.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Typography/src/MDCFontTextStyle.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCHeaderStackView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/HeaderStackView/src/MDCHeaderStackView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCHeaderStackViewColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/HeaderStackView/src/ColorThemer/MDCHeaderStackViewColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCIcons+BundleLoader.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/src/MDCIcons+BundleLoader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCIcons.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/src/MDCIcons.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCInkColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Ink/src/ColorThemer/MDCInkColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCInkGestureRecognizer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Ink/src/MDCInkGestureRecognizer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCInkTouchController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Ink/src/MDCInkTouchController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCInkView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Ink/src/MDCInkView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCIntrinsicHeightTextView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCIntrinsicHeightTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCKeyboardWatcher.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/KeyboardWatcher/src/MDCKeyboardWatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCLayoutMetrics.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/UIMetrics/src/MDCLayoutMetrics.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCLegacyColorScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Color/src/MDCLegacyColorScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCLegacyFontScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Typography/src/MDCLegacyFontScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCLegacyTonalColorScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Color/src/MDCLegacyTonalColorScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCLegacyTonalPalette.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Color/src/MDCLegacyTonalPalette.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCLibraryInfo.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/LibraryInfo/src/MDCLibraryInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCMaskedTransitionController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/MaskedTransition/src/MDCMaskedTransitionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCMath.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Math/src/MDCMath.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCMultilineTextField.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCMultilineTextField.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCMultilineTextInputDelegate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCMultilineTextInputDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCNavigationBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/NavigationBar/src/MDCNavigationBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCNavigationBarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/NavigationBar/src/ColorThemer/MDCNavigationBarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCNavigationBarTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/NavigationBar/src/TypographyThemer/MDCNavigationBarTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCNumericValueLabel.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ThumbTrack/src/MDCNumericValueLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOutlinedButtonColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ColorThemer/MDCOutlinedButtonColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOutlinedButtonThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ButtonThemer/MDCOutlinedButtonThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOutlinedTextFieldColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/ColorThemer/MDCOutlinedTextFieldColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOverlayImplementor.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Overlay/src/MDCOverlayImplementor.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOverlayObserver.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Overlay/src/MDCOverlayObserver.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOverlayTransitioning.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Overlay/src/MDCOverlayTransitioning.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCOverlayWindow.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/OverlayWindow/src/MDCOverlayWindow.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCPageControl.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/PageControl/src/MDCPageControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCPageControlColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/PageControl/src/ColorThemer/MDCPageControlColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCPalettes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Palettes/src/MDCPalettes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCPathGenerator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCPathGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCPillShapeGenerator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCPillShapeGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCProgressView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ProgressView/src/MDCProgressView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCProgressViewColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ProgressView/src/ColorThemer/MDCProgressViewColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCRaisedButton.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/MDCRaisedButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCRectangleShapeGenerator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCRectangleShapeGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCRoundedCornerTreatment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCRoundedCornerTreatment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSemanticColorScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Color/src/MDCSemanticColorScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCShadowElevations.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ShadowElevations/src/MDCShadowElevations.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCShadowLayer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ShadowLayer/src/MDCShadowLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCShapeGenerating.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCShapeGenerating.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCShapedShadowLayer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCShapedShadowLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCShapedView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MDCShapedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSheetState.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomSheet/src/MDCSheetState.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSlantedRectShapeGenerator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCSlantedRectShapeGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSlider.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Slider/src/MDCSlider.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSliderColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Slider/src/ColorThemer/MDCSliderColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarAlignment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/MDCSnackbarAlignment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/ColorThemer/MDCSnackbarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarFontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/FontThemer/MDCSnackbarFontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarManager.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/MDCSnackbarManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarMessage.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/MDCSnackbarMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarMessageView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/MDCSnackbarMessageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCSnackbarTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/TypographyThemer/MDCSnackbarTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarAlignment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarAlignment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/ColorThemer/MDCTabBarColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarFontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/FontThemer/MDCTabBarFontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarIndicatorAttributes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarIndicatorAttributes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarIndicatorContext.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarIndicatorContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarIndicatorTemplate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarIndicatorTemplate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarItemAppearance.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarItemAppearance.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarTextTransform.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarTextTransform.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/TypographyThemer/MDCTabBarTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarUnderlineIndicatorTemplate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarUnderlineIndicatorTemplate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTabBarViewController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MDCTabBarViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextButtonColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ColorThemer/MDCTextButtonColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextButtonThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ButtonThemer/MDCTextButtonThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextField.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextField.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextFieldColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/ColorThemer/MDCTextFieldColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextFieldFontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/FontThemer/MDCTextFieldFontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextFieldPositioningDelegate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextFieldPositioningDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextFieldTypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/TypographyThemer/MDCTextFieldTypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInput.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInput.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputBorderView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputBorderView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputCharacterCounter.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputCharacterCounter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerBase.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerBase.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerFilled.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerFilled.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerFloatingPlaceholder.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerFloatingPlaceholder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerFullWidth.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerFullWidth.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerLegacyDefault.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerLegacyDefault.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerLegacyFullWidth.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerLegacyFullWidth.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerOutlined.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerOutlined.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerOutlinedTextArea.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerOutlinedTextArea.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputControllerUnderline.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputControllerUnderline.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTextInputUnderlineView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MDCTextInputUnderlineView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCThumbTrack.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ThumbTrack/src/MDCThumbTrack.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCThumbView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ThumbTrack/src/MDCThumbView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTonalColorScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Themes/src/MDCTonalColorScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTonalPalette.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Themes/src/MDCTonalPalette.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTriangleEdgeTreatment.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MDCTriangleEdgeTreatment.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTypography.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Typography/src/MDCTypography.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDCTypographyScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Typography/src/MDCTypographyScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialActivityIndicator+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ActivityIndicator/src/ColorThemer/MaterialActivityIndicator+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialActivityIndicator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ActivityIndicator/src/MaterialActivityIndicator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialAnimationTiming.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AnimationTiming/src/MaterialAnimationTiming.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialAppBar+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/ColorThemer/MaterialAppBar+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialAppBar+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/TypographyThemer/MaterialAppBar+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialAppBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AppBar/src/MaterialAppBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialApplication.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Application/src/MaterialApplication.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialBottomAppBar+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomAppBar/src/ColorThemer/MaterialBottomAppBar+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialBottomAppBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomAppBar/src/MaterialBottomAppBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialBottomNavigation+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomNavigation/src/ColorThemer/MaterialBottomNavigation+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialBottomNavigation+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomNavigation/src/TypographyThemer/MaterialBottomNavigation+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialBottomNavigation.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomNavigation/src/MaterialBottomNavigation.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialBottomSheet.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomSheet/src/MaterialBottomSheet.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtonBar+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/ColorThemer/MaterialButtonBar+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtonBar+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/TypographyThemer/MaterialButtonBar+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtonBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ButtonBar/src/MaterialButtonBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtons+ButtonThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ButtonThemer/MaterialButtons+ButtonThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtons+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/ColorThemer/MaterialButtons+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtons+TitleColorAccessibilityMutator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/TitleColorAccessibilityMutator/MaterialButtons+TitleColorAccessibilityMutator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtons+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/TypographyThemer/MaterialButtons+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialButtons.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Buttons/src/MaterialButtons.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialCards+CardThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/CardThemer/MaterialCards+CardThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialCards+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/ColorThemer/MaterialCards+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialCards.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/MaterialCards.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialChips+ChipThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/ChipThemer/MaterialChips+ChipThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialChips+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/ColorThemer/MaterialChips+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialChips+FontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/FontThemer/MaterialChips+FontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialChips+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/TypographyThemer/MaterialChips+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialChips.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Chips/src/MaterialChips.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialCollectionCells.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/CollectionCells/src/MaterialCollectionCells.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialCollectionLayoutAttributes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/CollectionLayoutAttributes/src/MaterialCollectionLayoutAttributes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialCollections.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Collections/src/MaterialCollections.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialColorScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Color/src/MaterialColorScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialComponents-Swift.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MaterialComponents/MaterialComponents.framework/Headers/MaterialComponents-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialComponents-umbrella.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/Target Support Files/MaterialComponents/MaterialComponents-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialDialogs+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/ColorThemer/MaterialDialogs+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialDialogs+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/TypographyThemer/MaterialDialogs+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialDialogs.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/MaterialDialogs.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlight+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/ColorThemer/MaterialFeatureHighlight+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlight+FeatureHighlightAccessibilityMutator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/FeatureHighlightAccessibilityMutator/MaterialFeatureHighlight+FeatureHighlightAccessibilityMutator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlight+FontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/FontThemer/MaterialFeatureHighlight+FontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlight+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/TypographyThemer/MaterialFeatureHighlight+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlight.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/MaterialFeatureHighlight.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlightStrings.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/MaterialFeatureHighlightStrings.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFeatureHighlightStrings_table.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FeatureHighlight/src/MaterialFeatureHighlightStrings_table.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFlexibleHeader+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FlexibleHeader/src/ColorThemer/MaterialFlexibleHeader+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialFlexibleHeader.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/FlexibleHeader/src/MaterialFlexibleHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialHeaderStackView+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/HeaderStackView/src/ColorThemer/MaterialHeaderStackView+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialHeaderStackView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/HeaderStackView/src/MaterialHeaderStackView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_arrow_back.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_arrow_back/src/MaterialIcons+ic_arrow_back.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_check.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_check/src/MaterialIcons+ic_check.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_check_circle.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_check_circle/src/MaterialIcons+ic_check_circle.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_chevron_right.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_chevron_right/src/MaterialIcons+ic_chevron_right.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_color_lens.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_color_lens/src/MaterialIcons+ic_color_lens.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_help_outline.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_help_outline/src/MaterialIcons+ic_help_outline.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_info.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_info/src/MaterialIcons+ic_info.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_more_horiz.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_more_horiz/src/MaterialIcons+ic_more_horiz.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_radio_button_unchecked.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_radio_button_unchecked/src/MaterialIcons+ic_radio_button_unchecked.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_reorder.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_reorder/src/MaterialIcons+ic_reorder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons+ic_settings.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/icons/ic_settings/src/MaterialIcons+ic_settings.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialIcons.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Icons/src/MaterialIcons.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialInk+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Ink/src/ColorThemer/MaterialInk+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialInk.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Ink/src/MaterialInk.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialKeyboardWatcher.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/KeyboardWatcher/src/MaterialKeyboardWatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialLibraryInfo.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/LibraryInfo/src/MaterialLibraryInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialList.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/List/src/MaterialList.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialMaskedTransition.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/MaskedTransition/src/MaterialMaskedTransition.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialMath.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Math/src/MaterialMath.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialNavigationBar+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/NavigationBar/src/ColorThemer/MaterialNavigationBar+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialNavigationBar+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/NavigationBar/src/TypographyThemer/MaterialNavigationBar+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialNavigationBar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/NavigationBar/src/MaterialNavigationBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialOverlay.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Overlay/src/MaterialOverlay.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialOverlayWindow.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/OverlayWindow/src/MaterialOverlayWindow.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialPageControl+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/PageControl/src/ColorThemer/MaterialPageControl+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialPageControl.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/PageControl/src/MaterialPageControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialPalettes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Palettes/src/MaterialPalettes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialProgressView+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ProgressView/src/ColorThemer/MaterialProgressView+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialProgressView.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ProgressView/src/MaterialProgressView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialShadowElevations.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ShadowElevations/src/MaterialShadowElevations.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialShadowLayer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/ShadowLayer/src/MaterialShadowLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialShapeLibrary.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ShapeLibrary/src/MaterialShapeLibrary.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialShapes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Shapes/src/MaterialShapes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialSlider+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Slider/src/ColorThemer/MaterialSlider+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialSlider.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Slider/src/MaterialSlider.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialSnackbar+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/ColorThemer/MaterialSnackbar+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialSnackbar+FontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/FontThemer/MaterialSnackbar+FontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialSnackbar+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/TypographyThemer/MaterialSnackbar+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialSnackbar.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Snackbar/src/MaterialSnackbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTabs+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/ColorThemer/MaterialTabs+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTabs+FontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/FontThemer/MaterialTabs+FontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTabs+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/TypographyThemer/MaterialTabs+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTabs.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Tabs/src/MaterialTabs.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTextFields+ColorThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/ColorThemer/MaterialTextFields+ColorThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTextFields+FontThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/FontThemer/MaterialTextFields+FontThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTextFields+TypographyThemer.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/TypographyThemer/MaterialTextFields+TypographyThemer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTextFields.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/TextFields/src/MaterialTextFields.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialThemes.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Themes/src/MaterialThemes.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialThumbTrack.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/ThumbTrack/src/MaterialThumbTrack.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTypography.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Typography/src/MaterialTypography.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialTypographyScheme.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/schemes/Typography/src/MaterialTypographyScheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialUIMetrics.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/UIMetrics/src/MaterialUIMetrics.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIApplication+AppExtensions.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/private/Application/src/UIApplication+AppExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionViewController+MDCCardReordering.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Cards/src/UICollectionViewController+MDCCardReordering.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFont+MaterialSimpleEquality.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Typography/src/UIFont+MaterialSimpleEquality.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFont+MaterialTypography.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Typography/src/UIFont+MaterialTypography.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFontDescriptor+MaterialTypography.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Typography/src/UIFontDescriptor+MaterialTypography.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+MDCTimingFunction.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/AnimationTiming/src/UIView+MDCTimingFunction.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+MaterialBottomSheet.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/BottomSheet/src/UIViewController+MaterialBottomSheet.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+MaterialDialogs.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MaterialComponents/components/Dialogs/src/UIViewController+MaterialDialogs.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MaterialComponents/MaterialComponents.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Pods.build/Debug-iphoneos/MaterialComponents.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionAnimator/MotionAnimator.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CATransaction+MotionAnimator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionAnimator/src/CATransaction+MotionAnimator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMAnimatableKeyPaths.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionAnimator/src/MDMAnimatableKeyPaths.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMCoreAnimationTraceable.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionAnimator/src/MDMCoreAnimationTraceable.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMMotionAnimator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionAnimator/src/MDMMotionAnimator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionAnimator-Swift.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionAnimator/MotionAnimator.framework/Headers/MotionAnimator-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionAnimator-umbrella.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/Target Support Files/MotionAnimator/MotionAnimator-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionAnimator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionAnimator/src/MotionAnimator.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionAnimator/MotionAnimator.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Pods.build/Debug-iphoneos/MotionAnimator.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionInterchange/MotionInterchange.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CAMediaTimingFunction+MDMTimingCurve.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/CAMediaTimingFunction+MDMTimingCurve.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMAnimationTraits.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMAnimationTraits.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMMotionCurve.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMMotionCurve.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMMotionRepetition.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMMotionRepetition.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMMotionTiming.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMMotionTiming.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMRepetition.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMRepetition.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMRepetitionOverTime.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMRepetitionOverTime.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMRepetitionTraits.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMRepetitionTraits.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMSpringTimingCurve.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMSpringTimingCurve.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMSpringTimingCurveGenerator.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMSpringTimingCurveGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMSubclassingRestricted.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMSubclassingRestricted.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMTimingCurve.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MDMTimingCurve.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionInterchange-Swift.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionInterchange/MotionInterchange.framework/Headers/MotionInterchange-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionInterchange-umbrella.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/Target Support Files/MotionInterchange/MotionInterchange-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionInterchange.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionInterchange/src/MotionInterchange.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionInterchange/MotionInterchange.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Pods.build/Debug-iphoneos/MotionInterchange.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionTransitioning/MotionTransitioning.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MDMTransition.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MDMTransition.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMTransitionContext.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MDMTransitionContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMTransitionController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MDMTransitionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMTransitionNavigationControllerDelegate.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MDMTransitionNavigationControllerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMTransitionPresentationController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MDMTransitionPresentationController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MDMTransitionViewSnapshotter.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MDMTransitionViewSnapshotter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionTransitioning-Swift.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionTransitioning/MotionTransitioning.framework/Headers/MotionTransitioning-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionTransitioning-umbrella.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/Target Support Files/MotionTransitioning/MotionTransitioning-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MotionTransitioning.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/MotionTransitioning.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+TransitionController.h",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/Pods/MotionTransitioning/src/UIViewController+TransitionController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Debug-iphoneos/MotionTransitioning/MotionTransitioning.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akartavov/Source/MDCFrameworksTemplate/build/Pods.build/Debug-iphoneos/MotionTransitioning.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

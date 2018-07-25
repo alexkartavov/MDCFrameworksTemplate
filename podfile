@@ -1,0 +1,6 @@
+target 'MDCFrameworksTemplate' do
+    platform :ios, '11.4'
+    use_frameworks!
+    project 'MDCFrameworksTemplate.xcodeproj'
+    pod 'MaterialComponents', '~> 58.0.0'
+  end

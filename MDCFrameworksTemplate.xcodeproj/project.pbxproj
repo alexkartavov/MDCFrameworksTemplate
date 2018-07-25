@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95A328A23E03EE15E2D376B2 /* Pods_MDCFrameworksTemplate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5AA3999C34F9DACA8FB7FCE /* Pods_MDCFrameworksTemplate.framework */; };
 		D82283712108CB6500844B45 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D82283702108CB6500844B45 /* AppDelegate.m */; };
 		D82283742108CB6500844B45 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D82283732108CB6500844B45 /* ViewController.m */; };
 		D82283772108CB6500844B45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D82283752108CB6500844B45 /* Main.storyboard */; };
@@ -16,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		59B8067D98F133B7EA3A423F /* Pods-MDCFrameworksTemplate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MDCFrameworksTemplate.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MDCFrameworksTemplate/Pods-MDCFrameworksTemplate.debug.xcconfig"; sourceTree = "<group>"; };
+		93272FDF46F5830013CC00E6 /* Pods-MDCFrameworksTemplate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MDCFrameworksTemplate.release.xcconfig"; path = "Pods/Target Support Files/Pods-MDCFrameworksTemplate/Pods-MDCFrameworksTemplate.release.xcconfig"; sourceTree = "<group>"; };
+		D5AA3999C34F9DACA8FB7FCE /* Pods_MDCFrameworksTemplate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MDCFrameworksTemplate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D822836C2108CB6500844B45 /* MDCFrameworksTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MDCFrameworksTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D822836F2108CB6500844B45 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D82283702108CB6500844B45 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -33,17 +37,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95A328A23E03EE15E2D376B2 /* Pods_MDCFrameworksTemplate.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3E097CF23F5C0E9425EF8143 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D5AA3999C34F9DACA8FB7FCE /* Pods_MDCFrameworksTemplate.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		87A544E88E0DF713CDCC07EC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				59B8067D98F133B7EA3A423F /* Pods-MDCFrameworksTemplate.debug.xcconfig */,
+				93272FDF46F5830013CC00E6 /* Pods-MDCFrameworksTemplate.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		D82283632108CB6500844B45 = {
 			isa = PBXGroup;
 			children = (
 				D822836E2108CB6500844B45 /* MDCFrameworksTemplate */,
 				D822836D2108CB6500844B45 /* Products */,
+				87A544E88E0DF713CDCC07EC /* Pods */,
+				3E097CF23F5C0E9425EF8143 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -78,9 +102,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D82283822108CB6700844B45 /* Build configuration list for PBXNativeTarget "MDCFrameworksTemplate" */;
 			buildPhases = (
+				478C3F5DCB57F62555CA0238 /* [CP] Check Pods Manifest.lock */,
 				D82283682108CB6500844B45 /* Sources */,
 				D82283692108CB6500844B45 /* Frameworks */,
 				D822836A2108CB6500844B45 /* Resources */,
+				61AB2BCB15DCA0C598B223B7 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -135,6 +161,55 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		478C3F5DCB57F62555CA0238 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MDCFrameworksTemplate-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		61AB2BCB15DCA0C598B223B7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MDCFrameworksTemplate/Pods-MDCFrameworksTemplate-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework",
+				"${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework",
+				"${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework",
+				"${BUILT_PRODUCTS_DIR}/MotionAnimator/MotionAnimator.framework",
+				"${BUILT_PRODUCTS_DIR}/MotionInterchange/MotionInterchange.framework",
+				"${BUILT_PRODUCTS_DIR}/MotionTransitioning/MotionTransitioning.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MDFInternationalization.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MDFTextAccessibility.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MaterialComponents.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MotionAnimator.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MotionInterchange.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MotionTransitioning.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MDCFrameworksTemplate/Pods-MDCFrameworksTemplate-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D82283682108CB6500844B45 /* Sources */ = {
@@ -281,9 +356,11 @@
 		};
 		D82283832108CB6700844B45 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 59B8067D98F133B7EA3A423F /* Pods-MDCFrameworksTemplate.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FSAWVG25G2;
 				INFOPLIST_FILE = MDCFrameworksTemplate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -297,9 +374,11 @@
 		};
 		D82283842108CB6700844B45 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93272FDF46F5830013CC00E6 /* Pods-MDCFrameworksTemplate.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FSAWVG25G2;
 				INFOPLIST_FILE = MDCFrameworksTemplate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
